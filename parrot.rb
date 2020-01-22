@@ -3,4 +3,5 @@
 
 def parrot
   phrase= parrot
+  "Squawk!"
 end
